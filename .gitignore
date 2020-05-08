@@ -1,0 +1,4 @@
+kubeconfig
+.vagrant
+*.log
+k8s-local/join-command.sh
